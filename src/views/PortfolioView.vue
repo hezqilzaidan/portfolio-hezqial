@@ -30,6 +30,15 @@ export default {
           tech: 'Adobe After Effect, VN',
           github: 'null',
           demo: 'https://youtu.be/3w4FyGbhimc?si=-Rcv7y2pZrmsg9f_'
+        },
+        {
+          id: 4,
+          name: 'Sistem Informasi TKIT Permata Hati',
+          imageUrl: 'ph',
+          status: 'An administrative information system website which functions as an application to manage details of student financing and data collection at TKIT Permata Hati.',
+          tech: 'Laravel 8, JavaScript',
+          github: 'null',
+          demo: 'https://siakad-permatahati.vercel.app/'
         }
       ]
     };
