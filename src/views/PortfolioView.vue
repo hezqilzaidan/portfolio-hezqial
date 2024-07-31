@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Belajar Hijaiyah',
-          imageUrl: 'hijaiyah',
+          imageUrl: 'hijaiyah1',
           status: 'Hijaiyah Learning Game Application is a learning medium where this application contains materials about the basics of Hijaiyah letters.',
           tech: 'C#, C',
           github: 'null',
@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'RCC',
-          imageUrl: 'rcc',
+          imageUrl: 'rcc1',
           status: 'A website with a description of a company that operates in the procurement of goods for beauty clinics, as well as displaying the products sold by the company.',
           tech: 'Laravel 9, Bootstrap',
           github: 'null',
@@ -25,21 +25,30 @@ export default {
         {
           id: 3,
           name: 'Video UMKM Profile',
-          imageUrl: 'kkn',
+          imageUrl: 'kkn1',
           status: 'A video about the profile of UMKM engaged in duck and chicken farming located in Padukuhan Pandak, Bantul, Yogyakarta.',
           tech: 'Adobe After Effect, VN',
           github: 'null',
           demo: 'https://youtu.be/3w4FyGbhimc?si=-Rcv7y2pZrmsg9f_'
         },
         {
-          id: 4,
+          id: 6,
           name: 'Sistem Informasi TKIT Permata Hati',
-          imageUrl: 'ph',
+          imageUrl: 'ph4',
           status: 'An administrative information system website which functions as an application to manage details of student financing and data collection at TKIT Permata Hati.',
           tech: 'Laravel 8, JavaScript',
           github: 'null',
           demo: 'https://siakad-permatahati.vercel.app/'
-        }
+        },
+        {
+          id: 4,
+          name: 'E-Commerce VuePedia',
+          imageUrl: 'lp',
+          status: 'An E-Commerce Website that contains various kinds of products from fashion, electronic goods and many others.',
+          tech: 'JavaScript',
+          github: 'null',
+          demo: '#'
+        },
       ]
     };
   }
