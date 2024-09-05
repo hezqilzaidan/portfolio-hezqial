@@ -6,6 +6,33 @@ export default {
       items: [
         {
           id: 1,
+          name: 'JavaScript Essentials',
+          imageUrl: 'javascript',
+          status: '',
+          tech: 'Cisco',
+          github: 'null',
+          demo: 'https://www.credly.com/badges/394ed00e-4af7-430b-bb21-b67df65798ec/'
+        },
+        {
+          id: 2,
+          name: 'Ethical Hacker',
+          imageUrl: 'hacker',
+          status: '',
+          tech: 'Cisco',
+          github: 'null',
+          demo: 'https://www.credly.com/badges/5851c92c-796d-48b5-9f37-249e668c993d/'
+        },
+        {
+          id: 3,
+          name: 'Network Support & Security',
+          imageUrl: 'networksup',
+          status: '',
+          tech: 'Cisco',
+          github: 'null',
+          demo: 'https://www.credly.com/badges/f48c5e9d-58e3-4167-a1e5-1f80a8c64e7d/'
+        },
+        {
+          id: 4,
           name: 'Rest API With Golang',
           imageUrl: 'restapi',
           status: '',
@@ -14,7 +41,7 @@ export default {
           demo: 'https://www.udemy.com/certificate/UC-ef07e231-ce99-46e9-aa9d-a4b12f8b59b5/'
         },
         {
-          id: 2,
+          id: 5,
           name: 'Begginer Level Golang',
           imageUrl: 'golang',
           status: '',
@@ -23,7 +50,7 @@ export default {
           demo: 'https://www.udemy.com/certificate/UC-296602d7-b166-4c2b-9485-526fbe086176/'
         },
         {
-          id: 3,
+          id: 6,
           name: 'Mastering PostgreSQL',
           imageUrl: 'postgre',
           status: '',
@@ -32,7 +59,7 @@ export default {
           demo: 'https://udemy.com/certificate/UC-f358636d-7cd0-40cb-a4af-fddb8c413862/'
         },
         {
-          id: 4,
+          id: 7,
           name: 'Basic JavaScript Programming',
           imageUrl: 'js',
           status: '',
@@ -41,7 +68,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/L4PQ1737OXO1'
         },
         {
-          id: 5,
+          id: 8,
           name: 'Basic Structured Query Language',
           imageUrl: 'sql',
           status: '',
@@ -50,7 +77,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/JMZV380QJPN9'
         },
         {
-          id: 6,
+          id: 9,
           name: 'Basic Google Cloud',
           imageUrl: 'gcloud',
           status: '',
@@ -59,7 +86,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/4EXGQ8N0GZRL'
         },
         {
-          id: 7,
+          id: 10,
           name: 'SOLID Programming Principles',
           imageUrl: 'solid',
           status: '',
@@ -68,7 +95,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/KEXL1VN90XG2'
         },
         {
-          id: 8,
+          id: 11,
           name: 'Cloud Practitioner Essentials',
           imageUrl: 'cloudaws',
           status: '',
@@ -77,7 +104,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/53XEO9WMKZRN'
         },
         {
-          id: 9,
+          id: 12,
           name: 'Learn Basic DevOps',
           imageUrl: 'devops',
           status: '',
@@ -86,7 +113,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/EYX4VMYK6ZDL'
         },
         {
-          id: 10,
+          id: 13,
           name: 'Make a Single Page With React',
           imageUrl: 'react',
           status: '',
@@ -95,7 +122,7 @@ export default {
           demo: 'https://www.udemy.com/certificate/UC-d130bbd2-3f4f-4c78-9955-6d3c917d1b41/'
         },
         {
-          id: 11,
+          id: 14,
           name: 'React Native Functions and Usage',
           imageUrl: 'native',
           status: '',
@@ -104,7 +131,7 @@ export default {
           demo: 'https://www.udemy.com/certificate/UC-2428600d-fc98-432d-b0eb-79b8aa9fc01a/'
         },
         {
-          id: 12,
+          id: 15,
           name: 'Introduction to Modern JavaScript',
           imageUrl: 'jsmodern',
           status: '',
@@ -113,7 +140,7 @@ export default {
           demo: 'https://www.udemy.com/certificate/UC-e83e6d68-122c-4232-9dee-cb326b5f7cd0/'
         },
         {
-          id: 13,
+          id: 16,
           name: 'Basic Artificial Intelligence',
           imageUrl: 'ai',
           status: '',
@@ -122,7 +149,7 @@ export default {
           demo: 'https://www.dicoding.com/certificates/07Z60MLMYZQR'
         },
         {
-          id: 14,
+          id: 17,
           name: 'Planning Career As a Software Developer',
           imageUrl: 'software',
           status: '',
